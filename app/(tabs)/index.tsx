@@ -16,7 +16,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Hallo!</ThemedText>
+        <ThemedText type="title">Hallo Horizon Alpha!</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
